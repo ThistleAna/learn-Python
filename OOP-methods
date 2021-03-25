@@ -1,6 +1,6 @@
 # Methods are function within class
 # Create class claeed Employee, within the method we have name, salary, raise and monthly salary methods.
-# so basically set_name is a function that have self and new_name attributes
+# so basically set_name is a function/method that have self and new_name attributes
 
 
 class Employee:
