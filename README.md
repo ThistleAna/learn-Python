@@ -1,2 +1,2 @@
 # learn-Python
-All Python excercise during Woman in Data Course
+All Python excercise to brush up my skills
