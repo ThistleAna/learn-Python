@@ -1,2 +1,2 @@
 # learn-Python
-All Python excercise to brush up my skills
+All Python excercises to brush up my skills
